@@ -1,0 +1,9 @@
+
+=== Nhân viên 1 ===
+Lương thực nhận của nhân viên là: 16.200.000 VND
+
+=== Nhân viên 2 ===
+Lương thực nhận của nhân viên là: 8.800.000 VND
+
+=== Nhân viên 3 ===
+Lương thực nhận của nhân viên là: 33.750.000 VND
